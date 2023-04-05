@@ -4,6 +4,8 @@ Welcome to the ChatGPT Writer repository! This repository contains articles on v
 
 If you want to gain valuable information on various IT topics, learn something new or deepen your knowledge, this repository is perfect for you!
 
+## TODO
+
 ## Cписок статей, которые можно создать, чтобы рассказать о GetX:
 
 1. Введение в GetX: общий обзор и ключевые преимущества.
